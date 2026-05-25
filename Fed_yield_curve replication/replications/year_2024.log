@@ -1,0 +1,14 @@
+[fetch] Using cached .cache/feds200628.csv
+[run] target dates: 262 (2024-01-01 .. 2024-12-31)
+[run] cusip master: 1895 unique bonds
+  [25/262] 2024-02-02  n_bonds=293  10y diff vs Fed: 0.000 bp
+  [50/262] 2024-03-08  n_bonds=295  10y diff vs Fed: 0.000 bp
+  [75/262] 2024-04-12  n_bonds=295  10y diff vs Fed: 0.029 bp
+  [100/262] 2024-05-17  n_bonds=298  10y diff vs Fed: 0.000 bp
+  [125/262] 2024-06-21  n_bonds=296  10y diff vs Fed: 0.000 bp
+  [150/262] 2024-07-26  n_bonds=296  10y diff vs Fed: 0.000 bp
+  [175/262] 2024-08-30  n_bonds=297  10y diff vs Fed: 0.130 bp
+  [200/262] 2024-10-04  n_bonds=297  10y diff vs Fed: 0.477 bp
+  [225/262] 2024-11-08  n_bonds=297  10y diff vs Fed: 0.005 bp
+  [250/262] 2024-12-13  n_bonds=297  10y diff vs Fed: 0.014 bp
+[run] wrote 250 rows to replications/year_2024.csv
